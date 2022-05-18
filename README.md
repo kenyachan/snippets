@@ -1,2 +1,4 @@
-# snippets
-Reusable BPMN snippets
+# Snippets
+
+Reusable BPMN snippets.
+
